@@ -1,0 +1,59 @@
+C:\Prog_1\Atividades\Aula05\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Prog_1\Atividades\Aula05\Repository\bin\Debug\net9.0\Repository.dll
+C:\Prog_1\Atividades\Aula05\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.dll
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Prog_1\Atividades\Aula05\Repository\obj\Debug\net9.0\ref\Repository.dll
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.dll
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.dll
+C:\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\ref\Repository.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Repository\obj\Debug\net9.0\ref\Repository.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\bin\Debug\net9.0\Modelo.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Repository\obj\Debug\net9.0\ref\Repository.dll

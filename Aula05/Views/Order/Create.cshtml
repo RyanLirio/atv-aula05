@@ -1,0 +1,68 @@
+﻿@model Aula05.ViewModels.OrderViewModel;
+
+@{
+    ViewData["Title"] = "Criar Pedido";
+}
+
+<div class="container py-4">
+    <div class="card shadow rounded-4 border-0">
+        <div class="card-header bg-primary text-white text-center rounded-top-4">
+            <h2 class="mb-0"> Cadastro de Pedido</h2>
+        </div>
+
+        <div class="card-body px-5">
+
+            <form id="formOrder" method="post" asp-action="Create" asp-controller="Order">
+
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <label asp-for="@Model.CustomerId" class="form-label fw-semibold">Cliente:</label>
+                        <select asp-for="@Model.CustomerId" class="form-select shadow-sm">
+                            @foreach (var c in Model.Customers)
+                            {
+                                <option value="@c.Id">@c.Name</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+
+                <div class="table-responsive">
+                    <table class="table table-sm table-bordered align-middle text-center shadow-sm">
+                        <thead class="table-light">
+                            <tr class="align-middle">
+                                <th style="width: 5%"></th>
+                                <th>Item</th>
+                                <th style="width: 15%">Quantidade</th>
+                                <th style="width: 20%">Valor (R$)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var p in Model.SelectedItems!)
+                            {
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" name="Selected" class="form-check-input" value="@p.IsSelected" />
+                                    </td>
+                                    <td class="text-start">@p.OrderItem.Product!.ProductName</td>
+                                    <td>
+                                        <input type="number" name="Quantity" class="form-control text-center" value="@p.OrderItem.Quantity" />
+                                    </td>
+                                    <td>
+                                        <input type="text" name="Price" class="form-control text-center" value="@p.OrderItem.PurchasePrice" />
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="text-end mt-4">
+                    <button id="btnCustomer" type="submit" class="btn btn-success px-4 py-2">
+                        <i class="bi bi-check-circle me-2"></i> Cadastrar
+                    </button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

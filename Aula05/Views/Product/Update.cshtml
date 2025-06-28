@@ -1,0 +1,57 @@
+﻿@model Modelo.Product
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            Id:
+        </div>
+
+        <div class="col-6">
+            <input type="number" value="Id" placeholder="@Model.Id"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            Nome:
+        </div>
+
+        <div class="col-6">
+            <input type="text" value="ProductName" placeholder="@Model.ProductName"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            Descrição:
+        </div>
+
+        <div class="col-6">
+            <input type="text" value="Description" placeholder="@Model.Description"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            Preço atual:
+        </div>
+
+        <div class="col-6">
+            <input type="number" value="CurrentPrice" placeholder="@Model.CurrentPrice"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <form method="POST" asp-action="ConfirmUpdate" asp-controller="Product">
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <button class="btn btn-primary">
+                    Salvar
+                </button>
+
+                <a asp-action="Index" asp-controller="Product" class="btn btn-danger">Voltar</a>
+            </form>
+        </div>
+    </div>
+</div>

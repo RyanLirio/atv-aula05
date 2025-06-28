@@ -1,0 +1,41 @@
+﻿@model Modelo.Customer
+
+@{
+    ViewData["Title"] = "Excluir Cliente";
+}
+
+<div class="container py-4">
+    <div class="card shadow rounded-4 border-0">
+        <div class="card-header bg-danger text-white text-center rounded-top-4">
+            <h2 class="mb-0">⚠️ Confirmar Exclusão</h2>
+        </div>
+
+        <div class="card-body px-5">
+            <p class="lead">Tem certeza que deseja excluir o seguinte cliente?</p>
+
+            <div class="row mb-3">
+                <div class="col-md-3 fw-semibold">ID:</div>
+                <div class="col-md-9">@Model.Id</div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-md-3 fw-semibold">Nome:</div>
+                <div class="col-md-9">@Model.Name</div>
+            </div>
+
+            <form method="post" asp-action="ConfirmDelete" asp-controller="Customer">
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <div class="d-flex justify-content-end gap-2">
+                    <a asp-action="Index" asp-controller="Customer" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left me-1"></i> Voltar
+                    </a>
+
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash-fill me-1"></i> Excluir
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

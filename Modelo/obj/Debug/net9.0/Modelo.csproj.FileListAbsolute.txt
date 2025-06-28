@@ -1,0 +1,47 @@
+C:\Prog_1\Atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Prog_1\Atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Atividades\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll

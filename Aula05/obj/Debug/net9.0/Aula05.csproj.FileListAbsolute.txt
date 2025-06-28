@@ -1,0 +1,417 @@
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\appsettings.Development.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\appsettings.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.runtime.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.endpoints.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.exe
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.deps.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.runtimeconfig.json
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.dll
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Aula05.pdb
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfoInputs.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfo.cs
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.MvcApplicationPartsAssemblyInfo.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cs
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.sourcelink.json
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\scopedcss\bundle\Aula05.styles.css
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\scopedcss\projectbundle\Aula05.bundle.scp.css
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\fb5r13nohk-b9sayid5wm.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\90fdajseqz-61n19gt1b8.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\a1glzbsgbs-xtxxf3hu2r.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\q2knhn0oas-bqjiyaj88i.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\oav5birthl-c2jlpeoesf.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\k8mlp98qq6-erw9l3u2r3.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\vdbr5ir4f7-aexeepp0ev.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\fs97b6pzyb-d7shbmvgxk.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\9ukpa2yutx-ausgxo2sd3.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\bq9q2ufnnv-k8d9w2qqmf.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\j5yidjj4s9-cosvhxvwiu.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\j7084v5e9s-ub07r2b239.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\cv9ntsiayy-fvhpjtyr6v.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\tpme7kn7ys-b7pk76d08c.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\nvpmrwui5x-fsbi9cje9m.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\m6q2azc62w-rzd6atqjts.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\jnkg3tgd43-ee0r1s7dh0.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\t7usfpetaq-dxx9fxp4il.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\z7l62o8wmp-jd9uben2k1.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\51ik95al9t-khv3u5hwcm.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\8y1ppp4qmy-r4e9w2rdcm.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\2779n2lb87-lcd1t2u6c8.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\524n5mumxt-c2oey78nd0.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\qgq6p1kt6g-tdbxkamptv.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\bwbrtjm6nt-j5mq2jizvt.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\e9k7rwhujj-06098lyss8.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\vmk08g206n-nvvlpmu67g.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\050qvz65fb-s35ty4nyc5.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\kty6r4b2mb-pj5nd1wqec.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\wk5zoxlyin-46ein0sx1k.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\0gmve8xy2e-v0zj4ognzu.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\myvgbhcf4n-37tfw0ft22.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\6vtyysxpoe-hrwsygsryq.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\sr61wfgx17-pk9g2wxc8p.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\1u1ke0x0nk-ft3s53vfgj.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\ptf4y36pcg-6cfz1n2cew.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\5l7p4m844b-6pdc2jztkx.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\69db9shm3u-493y06b0oq.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\jh62sq8x0u-iovd86k7lj.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\yxbwxx81iw-vr1egmr9el.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\7bg52wce3e-kbrnm935zg.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\a2voywzpnv-jj8uyg4cgr.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\ib31osbnty-y7v9cxd14o.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\lboqqbcdvk-notf2xhcfb.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\jdkmeln5wi-h1s4sie4z3.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\azfoq2b0pu-63fj8s7r0e.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\2ntf89fkk4-0j3bgjxly4.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\5y12ddx6hc-47otxtyo56.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\w178wayhfg-4v8eqarkd7.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\nulh3pflk6-356vix0kms.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\t0823k1baf-83jwlth58m.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\8wjio4qxq6-mrlpezrjn3.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\l4ufs5hawc-lzl9nlhx6b.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\jfn4ighuk2-ag7o75518u.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\pe6ewpcjm5-x0q3zqp4vz.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\dv03pbafrm-0i3buxo5is.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\xesg0hqqcd-o1o13a6vjx.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\23fisa71bn-ttgo8qnofa.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\cdqk5nsn2h-2z0ns9nrw6.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\02wzjps1l6-muycvpuwrr.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\49sg2gjdau-87fc7y1x7t.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\9uszdkwl6c-mlv21k5csn.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\7wy2m62pnn-n4s8xxlm54.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\compressed\6b36x5nbk4-n4s8xxlm54.gz
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.development.json
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.build.Aula05.props
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Aula05.props
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Aula05.props
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.dll
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\refint\Aula05.dll
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfoInputs.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfo.cs
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.MvcApplicationPartsAssemblyInfo.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cs
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.sourcelink.json
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.dll
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\refint\Aula05.dll
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.Development.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.endpoints.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.runtime.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.exe
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.deps.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.runtimeconfig.json
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.dll
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.pdb
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\bundle\Aula05.styles.css
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\projectbundle\Aula05.bundle.scp.css
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fb5r13nohk-b9sayid5wm.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\90fdajseqz-61n19gt1b8.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a1glzbsgbs-xtxxf3hu2r.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\oav5birthl-c2jlpeoesf.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vdbr5ir4f7-aexeepp0ev.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9ukpa2yutx-ausgxo2sd3.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j5yidjj4s9-cosvhxvwiu.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cv9ntsiayy-fvhpjtyr6v.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nvpmrwui5x-fsbi9cje9m.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jnkg3tgd43-ee0r1s7dh0.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\z7l62o8wmp-jd9uben2k1.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8y1ppp4qmy-r4e9w2rdcm.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\524n5mumxt-c2oey78nd0.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bwbrtjm6nt-j5mq2jizvt.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vmk08g206n-nvvlpmu67g.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\kty6r4b2mb-pj5nd1wqec.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\0gmve8xy2e-v0zj4ognzu.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6vtyysxpoe-hrwsygsryq.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\1u1ke0x0nk-ft3s53vfgj.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5l7p4m844b-6pdc2jztkx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jh62sq8x0u-iovd86k7lj.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7bg52wce3e-kbrnm935zg.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ib31osbnty-y7v9cxd14o.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jdkmeln5wi-h1s4sie4z3.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2ntf89fkk4-0j3bgjxly4.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nulh3pflk6-356vix0kms.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t0823k1baf-83jwlth58m.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8wjio4qxq6-mrlpezrjn3.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\pe6ewpcjm5-x0q3zqp4vz.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\23fisa71bn-ttgo8qnofa.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\49sg2gjdau-87fc7y1x7t.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9uszdkwl6c-mlv21k5csn.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7wy2m62pnn-n4s8xxlm54.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6b36x5nbk4-n4s8xxlm54.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.development.json
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.dll
+C:\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.runtime.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.endpoints.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.exe
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.deps.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.sourcelink.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\bundle\Aula05.styles.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\projectbundle\Aula05.bundle.scp.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fb5r13nohk-b9sayid5wm.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\90fdajseqz-61n19gt1b8.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a1glzbsgbs-xtxxf3hu2r.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\q2knhn0oas-t1cqhe9u97.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\oav5birthl-c2jlpeoesf.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k8mlp98qq6-sejl45xvog.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vdbr5ir4f7-aexeepp0ev.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fs97b6pzyb-xvp3kq03qx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9ukpa2yutx-ausgxo2sd3.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bq9q2ufnnv-22vffe00uq.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j5yidjj4s9-cosvhxvwiu.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j7084v5e9s-qesaa3a1fm.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cv9ntsiayy-fvhpjtyr6v.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\tpme7kn7ys-tmc1g35s3z.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nvpmrwui5x-fsbi9cje9m.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\m6q2azc62w-rxsg74s51o.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jnkg3tgd43-ee0r1s7dh0.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t7usfpetaq-q9ht133ko3.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\z7l62o8wmp-jd9uben2k1.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\51ik95al9t-gye83jo8yx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8y1ppp4qmy-r4e9w2rdcm.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2779n2lb87-wl58j5mj3v.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\524n5mumxt-c2oey78nd0.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\qgq6p1kt6g-d4r6k3f320.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bwbrtjm6nt-j5mq2jizvt.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\e9k7rwhujj-keugtjm085.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vmk08g206n-nvvlpmu67g.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\050qvz65fb-zub09dkrxp.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\kty6r4b2mb-pj5nd1wqec.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\wk5zoxlyin-43atpzeawx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\0gmve8xy2e-v0zj4ognzu.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\myvgbhcf4n-ynyaa8k90p.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6vtyysxpoe-hrwsygsryq.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\sr61wfgx17-c63t5i9ira.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\1u1ke0x0nk-ft3s53vfgj.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ptf4y36pcg-4094rpi4f9.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5l7p4m844b-6pdc2jztkx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\69db9shm3u-hd3gran6i8.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jh62sq8x0u-iovd86k7lj.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\yxbwxx81iw-ltid2c489k.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7bg52wce3e-kbrnm935zg.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a2voywzpnv-8vyfqsqgz1.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ib31osbnty-y7v9cxd14o.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\lboqqbcdvk-u9q1upor1n.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jdkmeln5wi-h1s4sie4z3.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\azfoq2b0pu-4d85u1mtcx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2ntf89fkk4-0j3bgjxly4.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5y12ddx6hc-03hjc8e09r.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\w178wayhfg-48y08845bh.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nulh3pflk6-356vix0kms.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t0823k1baf-83jwlth58m.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8wjio4qxq6-mrlpezrjn3.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\l4ufs5hawc-worgj0nhwm.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jfn4ighuk2-gk0pw8i4co.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\pe6ewpcjm5-x0q3zqp4vz.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\dv03pbafrm-d6nrnj6jjx.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\xesg0hqqcd-m9qm4tazc0.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\23fisa71bn-ttgo8qnofa.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cdqk5nsn2h-jjsuc0puko.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\02wzjps1l6-9vr69e8ynj.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\49sg2gjdau-87fc7y1x7t.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9uszdkwl6c-mlv21k5csn.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7wy2m62pnn-n4s8xxlm54.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6b36x5nbk4-n4s8xxlm54.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.build.Aula05.props
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Aula05.props
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Aula05.props
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\refint\Aula05.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\q2knhn0oas-t1cqhe9u97.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k8mlp98qq6-sejl45xvog.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fs97b6pzyb-xvp3kq03qx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bq9q2ufnnv-22vffe00uq.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j7084v5e9s-qesaa3a1fm.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\tpme7kn7ys-tmc1g35s3z.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\m6q2azc62w-rxsg74s51o.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t7usfpetaq-q9ht133ko3.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\51ik95al9t-gye83jo8yx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2779n2lb87-wl58j5mj3v.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\qgq6p1kt6g-d4r6k3f320.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\e9k7rwhujj-keugtjm085.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\050qvz65fb-zub09dkrxp.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\wk5zoxlyin-43atpzeawx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\myvgbhcf4n-ynyaa8k90p.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\sr61wfgx17-c63t5i9ira.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ptf4y36pcg-4094rpi4f9.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\69db9shm3u-hd3gran6i8.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\yxbwxx81iw-ltid2c489k.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a2voywzpnv-8vyfqsqgz1.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\lboqqbcdvk-u9q1upor1n.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\azfoq2b0pu-4d85u1mtcx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5y12ddx6hc-03hjc8e09r.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\w178wayhfg-48y08845bh.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\l4ufs5hawc-worgj0nhwm.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jfn4ighuk2-gk0pw8i4co.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\dv03pbafrm-d6nrnj6jjx.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\xesg0hqqcd-m9qm4tazc0.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cdqk5nsn2h-jjsuc0puko.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\02wzjps1l6-9vr69e8ynj.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-0ztidwl4q2.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-wapwcpauvq.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-31k4xxwapd.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-p1jfoocser.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\appsettings.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.runtime.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.staticwebassets.endpoints.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.exe
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.deps.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.runtimeconfig.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Aula05.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Modelo.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\bin\Debug\net9.0\Repository.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.AssemblyInfo.cs
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.RazorAssemblyInfo.cs
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\bundle\Aula05.styles.css
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\scopedcss\projectbundle\Aula05.bundle.scp.css
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fb5r13nohk-lugek5hnai.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\90fdajseqz-61n19gt1b8.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a1glzbsgbs-fr7q2aak1r.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\q2knhn0oas-bqjiyaj88i.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\oav5birthl-c2jlpeoesf.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k8mlp98qq6-erw9l3u2r3.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vdbr5ir4f7-aexeepp0ev.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\fs97b6pzyb-d7shbmvgxk.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9ukpa2yutx-ausgxo2sd3.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bq9q2ufnnv-k8d9w2qqmf.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j5yidjj4s9-cosvhxvwiu.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\j7084v5e9s-ub07r2b239.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cv9ntsiayy-fvhpjtyr6v.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\tpme7kn7ys-b7pk76d08c.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nvpmrwui5x-fsbi9cje9m.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\m6q2azc62w-rzd6atqjts.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jnkg3tgd43-ee0r1s7dh0.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t7usfpetaq-dxx9fxp4il.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\z7l62o8wmp-jd9uben2k1.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\51ik95al9t-khv3u5hwcm.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8y1ppp4qmy-r4e9w2rdcm.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2779n2lb87-lcd1t2u6c8.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\524n5mumxt-c2oey78nd0.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\qgq6p1kt6g-tdbxkamptv.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\bwbrtjm6nt-j5mq2jizvt.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\e9k7rwhujj-06098lyss8.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\vmk08g206n-nvvlpmu67g.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\050qvz65fb-s35ty4nyc5.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\kty6r4b2mb-pj5nd1wqec.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\wk5zoxlyin-46ein0sx1k.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\0gmve8xy2e-v0zj4ognzu.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\myvgbhcf4n-37tfw0ft22.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6vtyysxpoe-hrwsygsryq.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\sr61wfgx17-pk9g2wxc8p.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\1u1ke0x0nk-ft3s53vfgj.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ptf4y36pcg-6cfz1n2cew.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5l7p4m844b-6pdc2jztkx.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\69db9shm3u-493y06b0oq.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jh62sq8x0u-iovd86k7lj.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\yxbwxx81iw-vr1egmr9el.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7bg52wce3e-kbrnm935zg.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\a2voywzpnv-jj8uyg4cgr.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\ib31osbnty-y7v9cxd14o.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\lboqqbcdvk-notf2xhcfb.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jdkmeln5wi-h1s4sie4z3.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\azfoq2b0pu-63fj8s7r0e.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\2ntf89fkk4-0j3bgjxly4.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\5y12ddx6hc-47otxtyo56.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\w178wayhfg-4v8eqarkd7.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\nulh3pflk6-l3n5xuwxn8.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\t0823k1baf-ilo7uva0vt.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\8wjio4qxq6-qlccset4i1.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\l4ufs5hawc-lzl9nlhx6b.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jfn4ighuk2-ag7o75518u.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\pe6ewpcjm5-xzw0cte36n.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\dv03pbafrm-0i3buxo5is.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\xesg0hqqcd-o1o13a6vjx.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\23fisa71bn-ttgo8qnofa.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cdqk5nsn2h-2z0ns9nrw6.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\02wzjps1l6-muycvpuwrr.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\49sg2gjdau-87fc7y1x7t.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\9uszdkwl6c-jfsiqqwiad.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-0ztidwl4q2.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-p1jfoocser.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\7wy2m62pnn-n4s8xxlm54.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6b36x5nbk4-n4s8xxlm54.gz
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\refint\Aula05.dll
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
+C:\Users\RL\Desktop\Prog_1-247ebdedba857927b9d2687006b52912450ead42\Aulas\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
